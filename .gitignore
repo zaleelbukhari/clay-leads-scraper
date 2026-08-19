@@ -1,0 +1,6 @@
+.env
+__pycache__/
+*.csv
+*.xlsx
+debug-*.html
+.DS_Store
